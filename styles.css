@@ -30,7 +30,7 @@ body {
 .button {
     color: black;
     font-size: 1rem;
-    margin: 1rem;
+    margin: .5rem;
     width: 50%;
     height: 3rem;
     background-color: rgb(234, 189, 111);
@@ -45,7 +45,7 @@ body {
 .buttonNext {
     color: black;
     font-size: 1rem;
-    margin: 1rem;
+    
     width: 50%;
     height: 3rem;
     background-color: rgb(95, 136, 217);
@@ -60,7 +60,7 @@ body {
 .buttonPrevious {
     color: black;
     font-size: 1rem;
-    margin: 1rem;
+    margin: .5rem;
     width: 50%;
     height: 3rem;
     background-color: rgb(76, 218, 69);
