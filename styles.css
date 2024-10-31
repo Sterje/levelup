@@ -28,6 +28,7 @@ body {
 }
 
 .button {
+    color: black;
     font-size: 1rem;
     margin: 1rem;
     width: 50%;
@@ -42,6 +43,7 @@ body {
 }
 
 .buttonNext {
+    color: black;
     font-size: 1rem;
     margin: 1rem;
     width: 50%;
@@ -53,6 +55,21 @@ body {
 
 .buttonNext:hover {
     background-color: rgba(95, 136, 217, 0.573);
+}
+
+.buttonPrevious {
+    color: black;
+    font-size: 1rem;
+    margin: 1rem;
+    width: 50%;
+    height: 3rem;
+    background-color: rgb(76, 218, 69);
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.buttonPrevious:hover {
+    background-color: rgba(77, 218, 69, 0.704)
 }
 
 .input {
