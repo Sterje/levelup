@@ -9,5 +9,5 @@ function calculate() {
     let oneDecimal = number.toFixed(1); // Avrundar till en decimal, funkar ej som det ska
     
     // Visa resultaten
-    document.getElementById("results").innerHTML = "Talet avrundat till heltal: " + heltal + "<br>" + "Här ska talet avrundas till en decimal, fungerar ej korrekt. " + oneDecimal;
+    document.getElementById("results").innerHTML = "Här ska talet avrundas till heltal men avrundar bar nedåt, fel " + heltal + "<br>" + "Här ska talet avrundas till en decimal, fungerar ej korrekt. " + oneDecimal;
 }
