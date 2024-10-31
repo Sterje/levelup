@@ -34,6 +34,7 @@ body {
     height: 3rem;
     background-color: rgb(234, 189, 111);
     border-radius: 5px;
+    border: 2px solid black;
 }
 
 .button:hover {
@@ -47,6 +48,7 @@ body {
     height: 3rem;
     background-color: rgb(95, 136, 217);
     border-radius: 5px;
+    border: 2px solid black;
 }
 
 .buttonNext:hover {
